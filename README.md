@@ -9,6 +9,7 @@ The program first is supposed to request the user to enter an arithmetic express
 1. Traverse the BST in in order,
 2. Traverse the BST in post order,
 3. Traverse the BST in preorder.
+
 After the user chooses among the options present, the result will be the display of the original arithmetic expression and the new one that depends on the option chosen.
 
 **Major Implementation Issue:** The most difficult part of the program is when writing the algorithm to construct an expression tree from the typical infix expression syntax given above.
